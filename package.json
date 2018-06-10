@@ -1,0 +1,10 @@
+{
+  "name": "White",
+  "version": "0.0.1",
+  "description": "Discord Bot by Embracing",
+  "main": "white.js",
+  "author": "Bryan Lou",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+  }
+}
