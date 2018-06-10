@@ -1,6 +1,0 @@
-Commands:
-**!ping** - Sends a 'pong' to the channel.
-**!avatar** - Sends the user a link to their avatar.
-**!play** *file* - Joins your channel and plays specified file.
-**!stop** - Stops playing whatever is currently playing.
-**!level** - Shows your current level and EXP to the next level.
